@@ -19,13 +19,14 @@ spells. Alls.
 ![Millstone][3]
 ![Soldevi Digger][4]
 
-Samma vår, strax efter Visions släpptes, minns jag att jag Björn satt och
-bläddrade i [Magic Gathering: Official Encyclopedia][1] och plötsligt fick den,
-för oss, nyskapande idén att proxa lekar och spela mot varandra. Min lek var
-svartröd och innehöll Sinkhole, Stone Rain, Army Ants, Demonic Hordes och Nether
-Void. Björns lek var lite baktung och innehöll bl.a. Erhnam och Juzam. Mer minns
-jag inte för vi spelade bara två dueller. Tydligen är det tråkigt att bli låst
-under en Nether Void när ens motståndare har en Army Ants i spel.
+Samma vår, strax efter Visions släpptes, minns jag att jag och Björn satt och
+bläddrade i [Magic Gathering: Official Encyclopedia][1] och plötsligt fick vi
+den, för oss, nyskapande idén att *proxa* lekar och spela mot varandra. Min lek
+var svartröd och innehöll Sinkhole, Stone Rain, Army Ants, Demonic Hordes och
+Nether Void. Björns lek var lite baktung och innehöll bl.a. Erhnam och
+Juzam. Mer minns jag inte för vi spelade bara två dueller. Tydligen är det
+tråkigt att bli låst under en Nether Void när ens motståndare har en Army Ants i
+spel.
 
 ![Army Ants][5]
 ![Nether Void][6]
