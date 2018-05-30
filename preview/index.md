@@ -66,13 +66,13 @@ Om rätt förhållanden råder kan Two-Toned Pipe vara allt från en role-player
 en build-around. Jag håller tummarna, men inte andan.
 
 [1]: https://www.amazon.co.uk/Magic-Gathering-Official-Encyclopedia-Complete/dp/1560251409
-[2]: ./bazaarofwonders.hq.jpg
-[3]: ./millstone.hq.jpg
-[4]: ./soldevidigger.hq.jpg
-[5]: ./armyants.hq.jpg
-[6]: ./nethervoid.hq.jpg
-[7]: ./aetherflash.hq.jpg
-[8]: ./humility.hq.jpg
-[9]: ./manavortex.hq.jpg
-[10]: ./preview.jpg
-[11]: ./demonichordes.hq.jpg
+[2]:  img/bazaarofwonders.hq.jpg
+[3]:  img/millstone.hq.jpg
+[4]:  img/soldevidigger.hq.jpg
+[5]:  img/armyants.hq.jpg
+[6]:  img/nethervoid.hq.jpg
+[7]:  img/aetherflash.hq.jpg
+[8]:  img/humility.hq.jpg
+[9]:  img/manavortex.hq.jpg
+[10]: img/preview.jpg
+[11]: img/demonichordes.hq.jpg

@@ -1,2 +1,2 @@
-index.html: pandoc.css preview.md
-	@pandoc -c ./pandoc.css preview.md > index.html
+index.html: pandoc.css index.md
+	@pandoc -c ./pandoc.css index.md > index.html
