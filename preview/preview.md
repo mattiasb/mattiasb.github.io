@@ -7,7 +7,7 @@ jag först väldigt casual, för att sakta skapa lite högre ambitioner. Kvala t
 SM, gå topp-8 i en PTQ, gå dag 2 på en GP och till slut kanske kanske få spela
 på touren. Tyvärr kom jag aldrig längre än en PTQ-final och jag har inte spelat
 annat än side-events på GP-söndagar. Men vid sidan av PT-ambitioner har jag
-alltid haft en ambition om att ha så roligt som möjligt när jag spelar Magic.
+också strävat efter att ha så roligt som möjligt när jag spelar.
 
 Eftersom "roligt" är ett nollsummespel i Magic har jag alltid haft en fäbless
 för kombo och prison. Den första lek jag byggde på egen hand var en Bazaar of
